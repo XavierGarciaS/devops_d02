@@ -1,2 +1,3 @@
-cat test
+cat $1
+
 
